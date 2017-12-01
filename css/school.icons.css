@@ -1,0 +1,12 @@
+/**
+ * @file
+ * School toolbar icon styles.
+ */
+
+.toolbar-icon-school-admin:before {
+    background-image: url("../images/icons/787878/school.svg");
+}
+
+.toolbar-icon-school-admin.is-active:before {
+    background-image: url("../images/icons/000000/school.svg");
+}
