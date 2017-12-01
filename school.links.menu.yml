@@ -1,0 +1,6 @@
+school.admin:
+  title: School
+  description: School Management System
+  route_name: school.admin
+  parent: system.admin
+  weight: -50

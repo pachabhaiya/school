@@ -1,0 +1,8 @@
+school.admin:
+  path: '/admin/school'
+  defaults:
+    _controller: '\Drupal\system\Controller\SystemController::overview'
+    _title: 'School Management System'
+    link_id: 'school.admin'
+  requirements:
+    _permission: 'access school administration pages'
