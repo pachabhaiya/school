@@ -1,0 +1,6 @@
+name: School Management System
+description: Base module for school management system.
+package: Drupal Nepal
+
+type: module
+core: 8.x
